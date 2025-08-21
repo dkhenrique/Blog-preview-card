@@ -26,7 +26,7 @@ Usuários devem ser capazes de:
 
 ### Screenshot
 
-![](./design/mobile-design.jpg)
+![](preview.jpg)
 
 ### Links
 
