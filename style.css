@@ -67,6 +67,12 @@ body {
   font-size: 1.5rem;
   font-weight: 800;
   line-height: 150%;
+  transition: color 0.2s;
+}
+
+.card__title:hover,
+.card__author-name:hover {
+  color: var(--yellow);
 }
 
 .card__description {
@@ -94,6 +100,7 @@ body {
   line-height: 150%;
   font-style: normal;
   font-size: 0.875rem;
+  transition: color 0.2s;
 }
 
 /* Responsividade para telas menores de 375px */
